@@ -1,5 +1,7 @@
 # osu!Auto
 
+[QUICK DISCLAIMER: THIS IS NOT A HACK OR FOR REPLAYS]
+
 This is just a random project I've been working on for fun to teach myself how to code so please don't expect much. 
 > Like literally don't I can make things work but it's held together with duct tape and prayers so most of it is buggy.
 
